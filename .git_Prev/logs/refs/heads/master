@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 61094984a7625c4456e456c0cec32c37078f4ee9 UrNightMare <gogaloga777@gmail.com> 1397141283 +0400	clone: from https://UrNightMare@github.com/UrNightMare/Calculator.git
+61094984a7625c4456e456c0cec32c37078f4ee9 c37f1c0b42fbab7502578c77db2d5f3d3c2aaf41 UrNightMare <gogaloga777@gmail.com> 1397144265 +0400	commit: Глобальное обновление !
+c37f1c0b42fbab7502578c77db2d5f3d3c2aaf41 9654929c42bd1f87b120195a1ee9a1e2f3c8c35e UrNightMare <gogaloga777@gmail.com> 1397223024 +0400	commit: Дизайн , вернул +/-
+9654929c42bd1f87b120195a1ee9a1e2f3c8c35e 686ecf95dc84727e9b97d6d4dd14445a2a0cca3d UrNightMare <gogaloga777@gmail.com> 1397251081 +0400	commit: The most goobal update ever !
+686ecf95dc84727e9b97d6d4dd14445a2a0cca3d ff6464fd44f339988ade1889fd57122b2f0157c7 UrNightMare <gogaloga777@gmail.com> 1397311029 +0400	commit: SMTH
+ff6464fd44f339988ade1889fd57122b2f0157c7 4f4de50457082aa8c4e8c18e8166aaed98c815e5 UrNightMare <gogaloga777@gmail.com> 1397407006 +0400	commit: Убраны все глобальные ошибки !!!
+4f4de50457082aa8c4e8c18e8166aaed98c815e5 bab44e1de7686cd0f8191e95ca3ec60114953fc3 UrNightMare <gogaloga777@gmail.com> 1397411933 +0400	commit: Никаких 0 в начале
+bab44e1de7686cd0f8191e95ca3ec60114953fc3 e7e5ed721299c3592bd252b0578184cfdcf146ed UrNightMare <gogaloga777@gmail.com> 1398605823 +0400	commit: Вроде готова 1ая версия приложения
+e7e5ed721299c3592bd252b0578184cfdcf146ed e0c1425421d425fce53de12d3276c47d1aa630c9 UrNightMare <gogaloga777@gmail.com> 1399223064 +0400	commit: Тут типо , ну , это, ну цвет поменял
+e0c1425421d425fce53de12d3276c47d1aa630c9 2f3934937da11bad8cb00770affdde84b5d56f56 UrNightMare <gogaloga777@gmail.com> 1399575059 +0400	commit: Улучшена кнопка √, добавлена 8 в 1 кнопки , улучшена интеграция с 3.5 inch дисплеем, улучшена кнопка -, minor bug fixes !!!
+2f3934937da11bad8cb00770affdde84b5d56f56 88780695211fa21ff09f0c954ec3f3044879e9cb UrNightMare <gogaloga777@gmail.com> 1399575455 +0400	commit: Исправлен 2 экран
+88780695211fa21ff09f0c954ec3f3044879e9cb 0d0e5148ccdbbd2cf2344068820cb2c03673a8e7 UrNightMare <gogaloga777@gmail.com> 1399657341 +0400	commit: Добавлена мини игра Flappy Birds, хреновая графика, но для калькулятора сойдет !!!
+0d0e5148ccdbbd2cf2344068820cb2c03673a8e7 3dc81a3397ae3a448bb307238fb0ba1479337f0d UrNightMare <gogaloga777@gmail.com> 1400092911 +0400	commit: 1.2
+3dc81a3397ae3a448bb307238fb0ba1479337f0d 694dae4861e7620b54f14eaf88a8d86491965514 UrNightMare <gogaloga777@gmail.com> 1400794100 +0400	commit: Звуки
+694dae4861e7620b54f14eaf88a8d86491965514 344d5db7dd8e865383cea194372775a09c76b0b9 UrNightMare <gogaloga777@gmail.com> 1400954226 +0400	commit: LaunchImages
+344d5db7dd8e865383cea194372775a09c76b0b9 2cfe7d5951329c64455d2b690242a0d78ec4bc6c UrNightMare <gogaloga777@gmail.com> 1401549968 +0400	commit: ADCOLONY added
+2cfe7d5951329c64455d2b690242a0d78ec4bc6c 9c6b9895e8f52c139711241dd3ad15b2d42f040f UrNightMare <gogaloga777@gmail.com> 1401550126 +0400	commit: added Adcolony with //
+9c6b9895e8f52c139711241dd3ad15b2d42f040f eccfa6c04fa820c6788d91696cb3eb1c40783c73 UrNightMare <gogaloga777@gmail.com> 1401552235 +0400	commit: Better AD experience
+eccfa6c04fa820c6788d91696cb3eb1c40783c73 012fc7d759740bbadf89d5eccc1ae1d52f020f7e George Sabanov <georgesabanov@iMac-George.local> 1418578083 +0300	commit: baddd
+012fc7d759740bbadf89d5eccc1ae1d52f020f7e 9c6b9895e8f52c139711241dd3ad15b2d42f040f George Sabanov <georgesabanov@iMac-George.local> 1418578226 +0300	reset: moving to HEAD~2
+9c6b9895e8f52c139711241dd3ad15b2d42f040f 2cfe7d5951329c64455d2b690242a0d78ec4bc6c George Sabanov <georgesabanov@iMac-George.local> 1418578234 +0300	reset: moving to HEAD~1
+2cfe7d5951329c64455d2b690242a0d78ec4bc6c 344d5db7dd8e865383cea194372775a09c76b0b9 George Sabanov <georgesabanov@iMac-George.local> 1418578239 +0300	reset: moving to HEAD~1
+344d5db7dd8e865383cea194372775a09c76b0b9 b7ed9870e99354445cbbab4353843ae08d4df4ca McFriend <georgesabanov@iMac-George.local> 1448559936 +0300	commit: GitHub Desktop
+b7ed9870e99354445cbbab4353843ae08d4df4ca 0ccf4d0196c7c8d8cad0cc50dc2502680b7c8714 McFriend <georgesabanov@iMac-George.local> 1448559939 +0300	rebase finished: refs/heads/master onto 9c6b9895e8f52c139711241dd3ad15b2d42f040f
